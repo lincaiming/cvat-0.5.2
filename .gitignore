@@ -1,0 +1,25 @@
+# Project Specific
+/data/
+/models/
+/share/
+/static/
+/db.sqlite3
+/.env
+/keys
+/logs
+/components/openvino/*.tgz
+/profiles
+/ssh/*
+!/ssh/README.md
+node_modules
+
+
+# Ignore temporary files
+__pycache__
+*.pyc
+._*
+
+# Ignore development npm files
+node_modules
+
+.DS_Store

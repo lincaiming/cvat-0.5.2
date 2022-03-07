@@ -6,6 +6,6 @@ numpy==1.16.4
 lxml>=3.5.0
 glog>=0.3.1
 tqdm>=4.19.6
-opencv-python==3.4.9.31
+opencv-python==4.2.0.32
 scikit-image>=0.14.0
 pycocotools
